@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="Hi there, I'm Vicky" src="./github_banner.png"/>
+  <img alt="Hi there, I'm Vicky" src="./github_banner.png" width=100%/>
   <div align=right>
   <a href="https://www.linkedin.com/in/vicfb/">
     <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black"/>
