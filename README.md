@@ -1,6 +1,10 @@
-<div id="header" align="center">
+<div>
   <img src="./undraw_programmer.svg" width="100"/>
+  <a href="https://www.linkedin.com/in/vicfb/">
+    <img alt="A woman coding while holding a coffee mug" src="https://img.shields.io/badge/LinkedIn-darkslategrey?logo=linkedin&logoColor=white"/>
+  </a>
 </div>
+  
 
 <!--
 **vic-fb/vic-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
