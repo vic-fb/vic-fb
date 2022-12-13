@@ -1,24 +1,43 @@
 <div align=center>
-  <img alt="Hi there, I'm Vicky" src="./github_banner.png" width=100%/>
-  <div align=right>
+  <img alt="Hi there, I'm Vicky" src="./github_banner.png"/>
+  <div>
   <a href="https://www.linkedin.com/in/vicfb/">
     <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black"/>
   </a>
   </div>
 </div>
-  
 
-<!--
-**vic-fb/vic-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little bit about me
 
-Here are some ideas to get you started:
+- :brain: :woman_scientist: I am a lifelong learner with a background in Biotechnology and Neuroscience
+- :earth_americas: I've lived in 4 different countries and love working in an international environment
+- :woman_technologist: I'm currently working on some projects, check them out below!
+- 🌱 I’m currently learning TypeScript
+- 💬 My pronouns are she/her
+- 📫 Reach me on LinkedIn, happy to connect with you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work in progress
+
+<table>
+<tr>
+<td align="center" width="30%">
+
+#### Middley
+[<img src="./middley.png" width="85" align="center">](https://middley.vercel.app/)
+
+</td>
+
+<td align="center" width="30%">
+
+#### UdoU
+[<img src="./udou.png" width="100">](https://udou.herokuapp.com/)
+
+</td>
+<td align="center" width="30%">
+
+#### Bulletin Board
+[<img src="./bulletin_board.png" width="100">](https://zxdvucjami.eu09.qoddiapp.com/)
+
+</td>
+</tr>
+</table>
