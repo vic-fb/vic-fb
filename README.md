@@ -1,8 +1,8 @@
 <div align=center>
   <img alt="Hi there, I'm Vicky" src="./github_banner.png"/>
-  <div>
+  <div align=right>
   <a href="https://www.linkedin.com/in/vicfb/">
-    <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-darkslategrey?logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black"/>
   </a>
   </div>
 </div>
