@@ -1,6 +1,5 @@
 <div align=center>
-  <img src="./undraw_programmer.svg" width="100"/>
-  <h1>Hi there! I'm Vicky :wave:</h1>
+  <img src="./github_banner.svg"/>
   <div>
   <a href="https://www.linkedin.com/in/vicfb/">
     <img alt="A woman coding and holding a coffee mug" src="https://img.shields.io/badge/LinkedIn-darkslategrey?logo=linkedin&logoColor=white"/>
