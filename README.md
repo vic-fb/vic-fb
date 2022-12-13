@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="./undraw_programmer.svg" width="100"/>
+</div>
 
 <!--
 **vic-fb/vic-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
