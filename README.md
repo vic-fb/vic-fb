@@ -1,11 +1,8 @@
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/vicfb/">
-  <img alt="Hi there, I'm Vicky" src="./github_banner.png" width=100%/>
-  <p>
-    <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black"/>
-  </p>
+  <img alt="Hi there, I'm Vicky" src="./github_banner.png" width=100% />
+  <img alt="LinkedIn button" src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=black" />
       </a>
-
 </div>
 
 ### About me   
