@@ -9,7 +9,7 @@
 
 :brain: :woman_scientist: I am a lifelong learner with a background in Biotechnology and Neuroscience  
 :earth_americas: I've lived in 4 different countries and love working in an international environment  
-:woman_technologist: I'm currently working on some full stack projects, check them out below!
+:woman_technologist: I'm currently working on some full stack projects, check them out below!  
 💬 My pronouns are she/her  
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vicfb/)
 
