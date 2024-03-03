@@ -20,7 +20,7 @@
 <td align="center" width="30%">
 
 #### Middley
-[<img src="./middley.png">](https://middley.vercel.app/)
+<img src="./middley.png">
 
 </td>
 
@@ -33,7 +33,7 @@
 <td align="center" width="30%">
 
 #### Bulletin Board
-[<img src="./bulletin_board.png">](https://zxdvucjami.eu09.qoddiapp.com/)
+<img src="./bulletin_board.png">
 
 </td>
 </tr>
