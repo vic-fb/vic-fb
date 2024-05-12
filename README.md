@@ -12,29 +12,3 @@
 :woman_technologist: I'm currently working as a Frontend Developer  
 💬 My pronouns are she/her  
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vicfb/)
-
-### Work in progress
-
-<table>
-<tr width="100%">
-<td align="center" width="30%">
-
-#### Middley
-<img src="./middley.png">
-
-</td>
-
-<td align="center" width="30%">
-
-#### UdoU
-[<img src="./udou.png">](https://udou.herokuapp.com/)
-
-</td>
-<td align="center" width="30%">
-
-#### Bulletin Board
-<img src="./bulletin_board.png">
-
-</td>
-</tr>
-</table>
